@@ -1,7 +1,7 @@
 # PwGenerator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
-It it used to generate random password with options.
+It is used to generate random password with options.
 
 ## Development server
 
